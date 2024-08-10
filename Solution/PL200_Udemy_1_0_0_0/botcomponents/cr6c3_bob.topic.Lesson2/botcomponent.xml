@@ -1,0 +1,10 @@
+<botcomponent schemaname="cr6c3_bob.topic.Lesson2">
+  <componenttype>9</componenttype>
+  <iscustomizable>0</iscustomizable>
+  <name>Lição 2 – Um tópico simples com uma condição e uma variável</name>
+  <parentbotid>
+    <schemaname>cr6c3_bob</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

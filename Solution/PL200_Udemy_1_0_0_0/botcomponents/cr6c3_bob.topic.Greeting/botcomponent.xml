@@ -1,0 +1,11 @@
+<botcomponent schemaname="cr6c3_bob.topic.Greeting">
+  <componenttype>9</componenttype>
+  <description>Esse tópico é disparado quando o usuário cumprimenta o bot.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Saudação</name>
+  <parentbotid>
+    <schemaname>cr6c3_bob</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

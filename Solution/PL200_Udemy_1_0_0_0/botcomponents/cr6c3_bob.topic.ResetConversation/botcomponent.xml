@@ -1,0 +1,10 @@
+<botcomponent schemaname="cr6c3_bob.topic.ResetConversation">
+  <componenttype>9</componenttype>
+  <iscustomizable>0</iscustomizable>
+  <name>Redefinir Conversa</name>
+  <parentbotid>
+    <schemaname>cr6c3_bob</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>
